@@ -5,7 +5,6 @@ import {Ownable} from "@openzeppelin/contracts/access/Ownable.sol";
 import {LotteryToken} from "./Token.sol";
 
 /// @title A very simple lottery contract
-/// @author Matheus Pagani
 /// @notice You can use this contract for running a very simple lottery
 /// @dev This contract implements a relatively weak randomness source
 /// @custom:teaching This is a contract meant for teaching only
